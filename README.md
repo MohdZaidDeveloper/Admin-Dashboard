@@ -1,6 +1,6 @@
-# Admn Dashboard
+# Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An admin dashboard with React js, Material UI
 
 ## Available Scripts
 
